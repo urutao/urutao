@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+Siga-me no <a href="http://strava.com/athletes/3749009/badge">STRAVA</a>  !!!
+
 <!--
 **urutao/urutao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
